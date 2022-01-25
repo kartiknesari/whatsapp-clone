@@ -14,6 +14,7 @@ Create a react app using `npx create-react-app {app-name}`. Download the package
 |@mui/material|5.3.0|
 |firebase|9.6.4|
 |react-router-dom|6.2.1|  
+
 Only the src folder has been uploaded in this repository. Copy the contents of this file and replace it with the ones in the project src folder. **Do not replace package.json and package-lock.json.***  
 Comments have been given in the code for ease of understanding.
 
