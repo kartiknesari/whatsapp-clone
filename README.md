@@ -25,7 +25,7 @@ Comments have been given in the code for ease of understanding.
    - Select **Hosting: Configure and deploy Firebase Hosting sites** by pressing the `spacebar` and move to the next section by hitting `enter`.
    - Select **Use an existing project** and select the project you are using for the whatsapp clone.
    - If problems occur then follow the solution firebase CLI provides as a workaround.
-3. ***Make sure there are no errors in this step. Type "build" when firebase asks "what do you want to use as your public directory?"
+3. ***Make sure there are no errors in this step. Type "build" when firebase asks "what do you want to use as your public directory?"***
 4. Enter "y" when firebase asks "Configure as a single-page app (rewrite all urls to /inde.html)?"
 5. run `npm run build` when firebase initialization is completed. This creates an optimized version of the app that can be used in production.
 6. run `firebase deploy` and you firebase will provide you a "Hosting URL". Click the link and watch the deployed version of your application.
