@@ -21,4 +21,4 @@ Comments have been given in the code for ease of understanding.
 **Note:** I faced difficulties executing the firebase scripts using powershell. If you also face this problem then use command prompt instead.
 1. run `firebase login` and login using your google account.
 2. run `firebase init` and select the following commands:
-   2.1. Select Hosting: Configure and deploy Firebase Hosting sites 
+   - Select Hosting: Configure and deploy Firebase Hosting sites 
